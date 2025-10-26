@@ -65,7 +65,7 @@ Each project highlights key engineering skills:
 
 ---
 
-### 🚗 3. Analyzing Car Reviews with **LLMs**
+### 3. Analyzing Car Reviews with **LLMs**
 **Goal:** Use an LLM to extract sentiment, summarize opinions, and identify top pain points from car review datasets.  
 **Highlights:**
 - Text analysis pipeline with Llama 2 / OpenAI GPT  
