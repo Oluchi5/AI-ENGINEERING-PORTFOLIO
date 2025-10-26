@@ -7,7 +7,7 @@ Welcome to **AI-ENGINEERING-PORTFOLIO**, a comprehensive showcase of projects, c
 This portfolio demonstrates practical expertise in **building, automating, and teaching modern AI systems** using tools like **LangChain**, **OpenAI**, **vector databases**, and **workflow orchestration frameworks**.
 
 
----
+
 ## 🧠 Vision
 To bridge the gap between **AI theory and automation in practice** — empowering engineers and learners to **build, understand, and deploy intelligent systems**.
 
