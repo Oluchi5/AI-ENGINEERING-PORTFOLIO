@@ -1,4 +1,4 @@
-# ⚙️ AI Automation
+# AI Automation
 
 **Learn AI Automation | RAG Systems | Agent Workflows | LLM Automation**
 
@@ -7,7 +7,7 @@ This folder focuses on **hands-on learning resources**, **visual walkthroughs**,
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This section is built for learners, professionals, and organizations looking to:
 - Understand **how AI automation works in practice**
@@ -18,7 +18,7 @@ Every tutorial is crafted to **teach complex AI concepts simply**, combining scr
 
 ---
 
-## 🧩 Topics Covered
+## Topics Covered
 
 ### 🤖 AI Agents
 - How to build an autonomous AI Agent using LangChain or CrewAI  
@@ -37,7 +37,7 @@ Every tutorial is crafted to **teach complex AI concepts simply**, combining scr
 
 ---
 
-## 🧰 Tools & Frameworks Taught
+## Tools & Frameworks Taught
 
 | Category | Tools / Frameworks |
 |-----------|--------------------|
@@ -50,7 +50,7 @@ Every tutorial is crafted to **teach complex AI concepts simply**, combining scr
 
 ---
 
-## 📘 Tutorial Structure
+##  Tutorial Structure
 
 Each tutorial includes:
 1. **Concept Overview** – Clear explanation of the topic  
@@ -59,7 +59,4 @@ Each tutorial includes:
 4. **Workflow Diagram** – Visual representation (using Mermaid or screenshots)  
 5. **Key Takeaways** – What you learn or achieve by the end  
 
----
-
-### 🧾 Example Folder Layout
 
