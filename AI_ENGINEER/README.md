@@ -1,4 +1,4 @@
-# 🧠 AI Engineer Projects  
+# AI Engineer Projects  
 **Machine Learning | Deep Learning | Neural Networks | LLM Applications**
 
 Welcome to the **AI Engineer Projects** section of the **AI-ENGINEERING-PORTFOLIO**.  
@@ -6,7 +6,7 @@ This folder showcases hands-on projects and experiments inspired by the **DataCa
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 These projects demonstrate how AI engineering blends **traditional machine learning**, **deep learning architectures**, and **modern LLM-powered techniques** to solve real-world problems.
 
@@ -19,7 +19,7 @@ Each project highlights key engineering skills:
 
 ---
 
-## 🧠 Core Skills Demonstrated
+##  Core Skills Demonstrated
 
 - **Neural Network Fundamentals** – perceptrons, activation functions, gradient descent  
 - **Deep Learning Architectures** – CNNs, RNNs, Transformers, attention mechanisms  
@@ -32,7 +32,7 @@ Each project highlights key engineering skills:
 
 ---
 
-## 🧰 Tools & Frameworks
+##  Tools & Frameworks
 
 | Category | Tools / Libraries |
 |-----------|------------------|
@@ -45,9 +45,9 @@ Each project highlights key engineering skills:
 
 ---
 
-## 🧩 Featured Projects
+##  Featured Projects
 
-### 📧 1. Classifying Emails using **Llama 2**
+###  1. Classifying Emails using **Llama 2**
 **Goal:** Use a large language model (Llama 2) to classify emails as spam, business, or personal correspondence.  
 **Highlights:**
 - Dataset preprocessing and text vectorization  
@@ -56,7 +56,7 @@ Each project highlights key engineering skills:
 
 ---
 
-### 🖼️ 2. Developing a **Multi-Input Model for OCR**
+###  2. Developing a **Multi-Input Model for OCR**
 **Goal:** Build a deep learning model capable of performing **optical character recognition (OCR)** on text-rich images.  
 **Highlights:**
 - Combined CNN + RNN architecture for sequence recognition  
