@@ -66,7 +66,3 @@ Whether you’re a **recruiter**, **developer**, or **AI enthusiast**, this repo
 
 ## 
 > AI Engineering • AI Automation • AI Agents • RAG Systems • LLM Workflows • Prompt Engineering • LangChain • OpenAI • Vector Databases • Autonomous Agents • Workflow Automation • Machine Learning Engineer • Applied AI • Intelligent Systems • AI Portfolio  
-
-
-
-## 🧾 Repository Structure
