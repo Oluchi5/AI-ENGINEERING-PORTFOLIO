@@ -9,7 +9,7 @@ This portfolio demonstrates practical expertise in **building, automating, and t
 
 
 ## Vision
-To bridge the gap between **AI theory and automation in practice** — empowering engineers and learners to **build, understand, and deploy intelligent systems**.
+To bridge the gap between **AI theory and automation in practice** - empowering engineers and learners to **build, understand, and deploy intelligent systems**.
 
 
 ---
