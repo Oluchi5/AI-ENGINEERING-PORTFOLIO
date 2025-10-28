@@ -2,7 +2,7 @@
 
 **AI Automation | RAG Systems | AI Agents | Intelligent Workflows**
 
-Welcome to **AI-ENGINEERING-PORTFOLIO**, a comprehensive showcase of projects, certifications, and educational resources focused on **AI automation, intelligent agent design, and workflow engineering**.  
+Welcome to my **AI-ENGINEERING-PORTFOLIO**, a comprehensive showcase of projects, certifications, and educational resources focused on **AI automation, intelligent agent design, and workflow engineering**.  
 
 This portfolio demonstrates practical expertise in **building, automating, and teaching modern AI systems** using tools like **LangChain**, **OpenAI**, **vector databases**, and **workflow orchestration frameworks**.
 
