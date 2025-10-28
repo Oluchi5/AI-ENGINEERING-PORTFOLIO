@@ -8,21 +8,21 @@ This portfolio demonstrates practical expertise in **building, automating, and t
 
 
 
-## 🧠 Vision
+## Vision
 To bridge the gap between **AI theory and automation in practice** — empowering engineers and learners to **build, understand, and deploy intelligent systems**.
 
 
 ---
 
-## 🚀 What This Portfolio Includes
+## What This Portfolio Includes
 
-### 🧩 1. AI Engineer Projects
+### 1. AI Engineer Projects
 Hands-on builds that highlight applied AI engineering principles in real-world use cases.
 
 Projects include:
-- 🤖 **AI Agents** – autonomous assistants for automation and reasoning  
-- 🧠 **RAG Systems** – retrieval-augmented generation pipelines for contextual understanding  
-- ⚙️ **LLM Workflows** – orchestrations that connect large language models with APIs and data tools  
+- **AI Agents** – autonomous assistants for automation and reasoning  
+- **RAG Systems** – retrieval-augmented generation pipelines for contextual understanding  
+- **LLM Workflows** – orchestrations that connect large language models with APIs and data tools  
 
 Each project folder includes:
 - A **problem overview**  
@@ -32,7 +32,7 @@ Each project folder includes:
 
 ---
 
-### 🎓 2. AI Certifications
+### 2. AI Certifications
 A curated set of certifications verifying expertise in:
 - AI Engineering & Automation  
 - Machine Learning & Data Science  
@@ -42,7 +42,7 @@ These serve as validated milestones of technical proficiency.
 
 ---
 
-### 📘 3. AI Automation Teaching Walkthroughs
+### 3. AI Automation Teaching Walkthroughs
 Educational content that demystifies key AI automation concepts.  
 Learn how to:
 - Build and deploy **AI Agents** from scratch  
@@ -53,7 +53,7 @@ These sections feature **screenshots, architecture diagrams, and step-by-step br
 
 ---
 
-## 💡 Why This Portfolio Matters
+##  Why This Portfolio Matters
 AI automation is transforming industries by merging intelligence with efficiency.  
 This portfolio highlights:
 - How **AI systems are built, deployed, and scaled**  
